@@ -5,3 +5,4 @@ Git tracks changes
 Git tracks changes of files
 Git checkout -b dev
 create a new branch is quick
+--no-ff
